@@ -15,3 +15,7 @@ var whitepopulation2;
 var asianpopulation2;
 var latinopopulation2;
 var nativeamericanpopulation2;
+var blackpopulation1 = true;
+var blackpopulation2 = true;
+blackpopulation1 || blackpopulation2;
+
